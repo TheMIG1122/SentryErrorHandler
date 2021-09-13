@@ -1,12 +1,12 @@
-## SentryErrorHandler
+# SentryErrorHandler
 
 Sample Work of Sentry
 
-# Description
+## Description
 
 In this Project I use sentry as a error handler to recieve errors in dashboard.
 
-# Instalation of vendor forlder
+## Instalation of vendor forlder
 
 ```
 composer require sentry/sdk
@@ -15,11 +15,11 @@ composer require sentry/sdk
 
 * 0.1
     * Initial Release
-# What we use?
+## What we use?
 
 We use simple php with a functions file with custom functions
 
-## Authors
+# Authors
 
 Contributors
 
