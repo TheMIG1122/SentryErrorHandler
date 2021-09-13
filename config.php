@@ -14,12 +14,12 @@ ini_set("display_errors",0);
 // DB
 
 $servername = "localhost";
-$username = "username";
-$password = "password";
-$dbname = "myDB";
+$username = "root";
+$password = "";
+$dbname = "vitaleducators";
 
 // Create connection
-// $conn= mysqli_connect($servername,$username,$password,$dbname);
+$conn= mysqli_connect($servername,$username,$password,$dbname);
 
 // $array = array(1,2,4,5,6,6);
 
