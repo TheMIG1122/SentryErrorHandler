@@ -1,0 +1,3 @@
+Options -Indexs
+
+ErrorDocument 500 /error.php
