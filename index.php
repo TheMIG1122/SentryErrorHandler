@@ -18,7 +18,7 @@
 // $sql = "SELECT * FROM tutors"; # Unknown Table
 // $query = query($sql);
 // confirm($query);
-// $num = num_rows($query);
+// $num = num_rows($qu/ery);
 // $data = fetch_array($query);
 
 ?>
